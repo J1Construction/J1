@@ -37,17 +37,12 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       title: "Dutch Bros Coffee",
       location: "Alamogordo, NM",
-      images: ["assets/3.1.png", "assets/3.2.png"]
+      images: ["assets/3.1.png", "assets/3.2.png", "assets/5.1.png", "assets/5.2.png"]
     },
     {
       title: "Sonic",
       location: "Alamogordo, NM",
       images: ["assets/4.1.png", "assets/4.2.png", "assets/4.3.png"]
-    },
-    {
-      title: "Dutch Bros Coffee",
-      location: "Alamogordo, NM",
-      images: ["assets/5.1.png", "assets/5.2.png"]
     },
     {
       title: "Burger King",
